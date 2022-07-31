@@ -1,3 +1,5 @@
+import random
+
 print("Hello Andrew North")
 
 def addten(number):
@@ -6,3 +8,11 @@ def addten(number):
 print(addten(7))
 
 # Andrew is the BEST
+
+print("Hi Em, adding a bit to your code")
+print("7/31/2022")
+
+def something(number):
+    return number + int(random)
+
+print(something(0))

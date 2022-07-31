@@ -1,3 +1,4 @@
 # New-Folder
-##GitHub # git_Emilys_Folder
-# yup yup :)
+## GitHub # git_Emilys_Folder
+
+## import random in python
