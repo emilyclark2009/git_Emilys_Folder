@@ -16,3 +16,8 @@ def something(number):
     return number + int(random)
 
 print(something(0))
+
+print("LOTS OF PRINTS!!")
+print("LoTs")
+print("oF")
+print("prINtS")
